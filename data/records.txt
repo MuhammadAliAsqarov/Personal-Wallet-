@@ -1,0 +1,15 @@
+Date: 2023-12-21
+Category: Expense
+Amount: 20000.0
+Description: dsf
+
+Date: 2023-12-30
+Category: Income
+Amount: 1412.0
+Description: f
+
+Date: 2023-12-11
+Category: Income
+Amount: 12030.0
+Description: fjslda
+
